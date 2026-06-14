@@ -36,4 +36,4 @@ The datasets used in this study and any supplementary material are available upo
 
 ## 📝 Citation
 
-If you find this code useful for your research, please consider citing our journal paper once it is officially published
+If you find this code useful for your research, please cite our journal https://doi.org/10.1016/j.ceja.2026.101296
