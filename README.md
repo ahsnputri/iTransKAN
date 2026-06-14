@@ -18,7 +18,7 @@ For convenience and keeping the workspace tidy during the review/publication pro
 
 ## 📂 Repository Contents
 
-*   **`iTransKAN_source_code.zip`**: The core package containing:
+*   **`iTransKAN_source_code.rar`**: The core package containing:
     *   Model architecture definitions (iTransKAN, Learnable Positional Embeddings, and KAN regression modules).
     *   Ablation and comparative baseline scripts (standard iTransformer, etc.).
     *   Training, optimization (Optuna/TPE), and evaluation pipelines.
